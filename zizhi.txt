@@ -366,6 +366,7 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 英雄联盟8,https://vip3.lbbf9.com/20240831/YT1EdEa4/index.m3u8
 🏛国漫H版,#genre#
 永劫无间1,https://vip3.lbbf9.com/20240905/GCV5a1os/index.m3u8
+宁红夜白素贞,https://vip2.bfbfhao.com/20240903/Z0CNCYOV/index.m3u8
 不良人1,https://vip3.lbbf9.com/20240909/GkUfoXzS/index.m3u8
 不良人2,https://vip3.lbbf9.com/20240909/Sj8z3VMU/index.m3u8
 不良人3,https://vip3.lbbf9.com/20240912/Ns7Pc3EI/index.m3u8
