@@ -1,7 +1,7 @@
 📺央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
@@ -11,6 +11,7 @@ CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122619
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
@@ -27,8 +28,19 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 
 📡卫视频道,#genre#
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://211.72.65.236:8577/.m3u8
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
 凤凰资讯,http://211.72.65.236:8576/.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -44,6 +56,7 @@ CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视,http://218.76.32.193:9901/tsfile/live/1006_1.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://218.89.240.144:59901/tsfile/live/0124_1.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -82,6 +95,7 @@ CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东卫视,http://123.138.22.30:9901/tsfile/live/0131_1.m3u8
 山西卫视,http://123.138.22.30:9901/tsfile/live/0118_1.m3u8
@@ -105,7 +119,7 @@ CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-春晚,#genre#
+🎬历年春晚,#genre#
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
@@ -176,6 +190,10 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 经典大片,https://www.goodiptv.club/douyu/747764
 科幻大片,http://159.75.85.63:35455/douyu/2793084
 科幻大片,https://www.goodiptv.club/douyu/2793084
+第一滴血轮播,http://jiaojirentv.top/2020/yy.php?id=1354932355
+敢死队轮播,http://jiaojirentv.top/2020/yy.php?id=1382735573
+速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382736911
+变形金刚轮播,http://jiaojirentv.top/2020/yy.php?id=1382736803
 喜剧大片,http://159.75.85.63:35455/douyu/428402
 喜剧大片,https://www.goodiptv.club/douyu/428402
 翻译国语,http://159.75.85.63:35455/douyu/2436390
@@ -187,6 +205,14 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 港剧轮播,http://159.75.85.63:35455/douyu/7356023
 港剧轮播,https://www.goodiptv.club/douyu/7356023
 83射雕英雄传,http://159.75.85.63:35455/douyu/12170696
+笑傲江湖,http://120.77.28.4:8648/huya.php?id=23865142
+笑傲江湖,https://www.goodiptv.club/huya/23865142
+神雕侠侣,http://120.77.28.4:8648/huya.php?id=23865171
+神雕侠侣,https://www.goodiptv.club/huya/23865171
+寻秦记,http://120.77.28.4:8648/huya.php?id=23864973
+寻秦记,https://www.goodiptv.club/huya/23864973
+天龙八部,http://120.77.28.4:8648/huya.php?id=23903123
+天龙八部,https://www.goodiptv.club/huya/23903123
 火龙果说电影,http://159.75.85.63:35455/douyu/9559158
 火龙果说电影,https://www.goodiptv.club/douyu/9559158
 文西与阿漆,https://www.goodiptv.club/douyu/8737695
@@ -197,7 +223,6 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 阿斗归来了,http://159.75.85.63:35455/douyu/13303478
 陈翔六点半,https://www.goodiptv.club/huya/11274154
 陈翔六点半,http://159.75.85.63:35455/douyu/11274154
-牛叔说电影,http://159.75.85.63:35455/douyu/2758565
 🏛明星换脸,#genre#
 佟丽娅,https://thm3u8.com/20240916/iD6cxFfO/index.m3u8
 佟丽娅1,https://play.gayzyv.com/play/kazpNQ5d/index.m3u8
@@ -366,7 +391,6 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 英雄联盟8,https://vip3.lbbf9.com/20240831/YT1EdEa4/index.m3u8
 🏛国漫H版,#genre#
 永劫无间1,https://vip3.lbbf9.com/20240905/GCV5a1os/index.m3u8
-宁红夜白素贞,https://vip2.bfbfhao.com/20240903/Z0CNCYOV/index.m3u8
 不良人1,https://vip3.lbbf9.com/20240909/GkUfoXzS/index.m3u8
 不良人2,https://vip3.lbbf9.com/20240909/Sj8z3VMU/index.m3u8
 不良人3,https://vip3.lbbf9.com/20240912/Ns7Pc3EI/index.m3u8
@@ -393,4 +417,3 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 斗破苍穹13,https://vip3.lbbf9.com/20240910/qz42cOYt/index.m3u8
 凡人修仙传1,https://vip2.bfbfhao.com/20240913/Tavy8FRp/index.m3u8
 凡人修仙传2,https://vip2.bfbfhao.com/20240902/Uh1bSSiL/index.m3u8
-
