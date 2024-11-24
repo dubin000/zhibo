@@ -151,19 +151,40 @@ CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 🎬音乐频道,#genre#
-韩国女团1,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-韩国女团2,http://159.75.85.63:35455/douyu/11327316
+萌七1,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247507984.mp4
+萌七2,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247587516.mp4
+韩国女团,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+九尾狐,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495002368168.mp4
+Amarantine,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495246219168.mp4
+One By One,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024277490.mp4
+Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
+纯美高音,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024609792.mp4
+悟空传,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495189414059.mp4
+叹郁孤,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495195802830.mp4
+我心永恒,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495246827100.mp4
+奉献,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/494989640949.mp4
+歌剧2,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025181054.mp4
+平凡之路,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025341097.mp4
+那些花儿,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025889033.mp4
+离殇,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247947445.mp4
+爱殇,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495190886312.mp4
+爱的供养,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025989738.mp4
+白蛇缘起,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/494990960413.mp4
+冰雪奇缘,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/494991332692.mp4
+从别后,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495026653699.mp4
+等一分钟,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/494991656870.mp4
+破茧,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495027197078.mp4
+唐人,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495027145707.mp4
+何为永恒,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495252747555.mp4
+一生等你,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495031641567.mp4
+破晓,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495027037037.mp4
+本色,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495190050759.mp4
 秋月剪水,http://159.75.85.63:35455/douyu/9588891
 许巍,http://em.21dtv.com/songs/60026063.mkv
 美女轮播,http://159.75.85.63:35455/douyu/11531165
 大鱼海棠,http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
-车模赏析,http://159.75.85.63:35455/douyu/9617766
-车模赏析,https://www.goodiptv.club/douyu/9617766
-车模颜值,http://159.75.85.63:35455/douyu/10118209
-车模颜值,https://www.goodiptv.club/douyu/10118209
-车模欣赏,http://159.75.85.63:35455/douyu/9837104
-车模欣赏,https://www.goodiptv.club/douyu/9837104
 WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a6d90f40aecbf303.ctv
+
 🎬电影频道,#genre#
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
