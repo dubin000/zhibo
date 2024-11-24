@@ -157,7 +157,6 @@ CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 许巍,http://em.21dtv.com/songs/60026063.mkv
 美女轮播,http://159.75.85.63:35455/douyu/11531165
 大鱼海棠,http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
-周深起风了,http://nf.sycdn.kuwo.cn/d2d19151d5710557252d88418941a61d/6742b0e5/resource/m3/16/86/1257298365.mp4
 车模赏析,http://159.75.85.63:35455/douyu/9617766
 车模赏析,https://www.goodiptv.club/douyu/9617766
 车模颜值,http://159.75.85.63:35455/douyu/10118209
