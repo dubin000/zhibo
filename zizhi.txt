@@ -383,6 +383,8 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 24,https://vip2.bfbfhao.com/20241107/jjHTC7Vb/index.m3u8
 24,https://vip2.bfbfhao.com/20241024/3zRkpxhe/index.m3u8
 25,https://vip2.bfbfhao.com/20240804/BkBvyiu8/index.m3u8
+26,https://video37.balecao.com/video/20221027/aa607d005318ea701efff3532030f984/index.m3u8
+27,https://vip2.bfbfhao.com/20240930/66iJpF8y/index.m3u8
 🏛欧美,#genre#
 1,https://vip2.bfbfhao.com/20241010/vM4WpTbW/index.m3u8
 2,https://vip3.lbbf9.com/20240916/HOszHZeK/index.m3u8
@@ -398,3 +400,4 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 12,https://vip2.bfbfhao.com/20241004/fKDeXJbW/index.m3u8
 13,https://vip2.bfbfhao.com/20240927/95V5ydUw/index.m3u8
 14,http://cdn.adultiptv.net/asian.m3u8
+15,https://vip2.bfbfhao.com/20240809/RVAMk2yr/index.m3u8
