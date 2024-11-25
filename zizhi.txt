@@ -348,33 +348,39 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 英雄联盟7,https://vip3.lbbf9.com/20240831/ma9jjAGc/index.m3u8
 英雄联盟8,https://vip3.lbbf9.com/20240831/YT1EdEa4/index.m3u8
 🏛国漫H版,#genre#
+天行九歌紫女,https://vip2.bfbfhao.com/20240912/UbUOZRn9/index.m3u8
+天行九歌紫女,https://vip3.lbbf9.com/20240912/UbUOZRn9/index.m3u8
+元龙 林秀,https://vip2.bfbfhao.com/20240914/0hTNgwLs/index.m3u8
 吞噬星空维尼娜,https://vip3.lbbf9.com/20240913/8cTZj0fe/index.m3u8
+斗罗比比东,https://vip2.bfbfhao.com/20240910/wGHErHWS/index.m3u8
 永劫无间1,https://vip3.lbbf9.com/20240905/GCV5a1os/index.m3u8
 宁红夜白素贞,https://vip2.bfbfhao.com/20240903/Z0CNCYOV/index.m3u8
 不良人1,https://vip3.lbbf9.com/20240909/GkUfoXzS/index.m3u8
 不良人2,https://vip3.lbbf9.com/20240909/Sj8z3VMU/index.m3u8
 不良人3,https://vip3.lbbf9.com/20240912/Ns7Pc3EI/index.m3u8
-天行九歌1,https://vip3.lbbf9.com/20240909/jN2JnPpC/index.m3u8
-天行九歌2,https://vip3.lbbf9.com/20240909/dLXAKgTc/index.m3u8
-天行九歌3,https://vip3.lbbf9.com/20240907/cXLNhhrV/index.m3u8
-天行九歌4,https://vip3.lbbf9.com/20240912/UbUOZRn9/index.m3u8
-天行九歌5,https://vip3.lbbf9.com/20240913/QWlsK4j4/index.m3u8
-斗罗大陆1,https://vip3.lbbf9.com/20240901/Oag3G8m9/index.m3u8
-斗罗大陆2,https://vip3.lbbf9.com/20240907/qDNmxS0r/index.m3u8
-斗罗大陆3,https://vip3.lbbf9.com/20240913/r67vBy5U/index.m3u8
-斗破苍穹1,https://vip2.bfbfhao.com/20240903/z1Tfbh5d/index.m3u8
-斗破苍穹2,https://vip2.bfbfhao.com/20240903/QuI8TGQe/index.m3u8
-斗破苍穹3,https://vip2.bfbfhao.com/20240903/roUo8FIw/index.m3u8
-斗破苍穹4,https://vip2.bfbfhao.com/20240903/6kLnKgZQ/index.m3u8
-斗破苍穹5,https://vip2.bfbfhao.com/20240903/HGIuPmdK/index.m3u8
-斗破苍穹6,https://vip2.bfbfhao.com/20240903/tseUUi2Y/index.m3u8
-斗破苍穹7,https://vip2.bfbfhao.com/20240903/4lSXTKzo/index.m3u8
-斗破苍穹8,https://vip3.lbbf9.com/20240914/x82KG3jK/index.m3u8
-斗破苍穹9,https://vip3.lbbf9.com/20240907/wzrvBzLU/index.m3u8
-斗破苍穹10,https://vip3.lbbf9.com/20240913/D3wKiqWe/index.m3u8
-斗破苍穹11,https://vip3.lbbf9.com/20240914/qyI6fpdY/index.m3u8
-斗破苍穹12,https://vip3.lbbf9.com/20240907/Wdnfkv8Y/index.m3u8
-斗破苍穹13,https://vip3.lbbf9.com/20240910/qz42cOYt/index.m3u8
+明珠夫人,https://vip3.lbbf9.com/20240909/jN2JnPpC/index.m3u8
+炎灵姬,https://vip3.lbbf9.com/20240909/dLXAKgTc/index.m3u8
+炎灵姬2,https://vip3.lbbf9.com/20240907/cXLNhhrV/index.m3u8
+炎灵姬3,https://vip3.lbbf9.com/20240913/QWlsK4j4/index.m3u8
+小舞,https://vip3.lbbf9.com/20240901/Oag3G8m9/index.m3u8
+小舞2,https://vip3.lbbf9.com/20240907/qDNmxS0r/index.m3u8
+比比东,https://vip2.bfbfhao.com/20240907/dNnj7lMx/index.m3u8
+比比东胡烈娜,https://vip2.bfbfhao.com/20240903/sOB6zN1B/index.m3u8
+阿银小舞,https://vip2.bfbfhao.com/20240902/o6emhGpL/index.m3u8
+阿银小舞2,https://vip2.bfbfhao.com/20240903/2vPR8JDd/index.m3u8
+玉小刚小舞,https://vip2.bfbfhao.com/20240913/awjGbqDU/index.m3u8
+美杜莎,https://vip2.bfbfhao.com/20240903/QuI8TGQe/index.m3u8
+云韵偷人,https://vip2.bfbfhao.com/20240903/roUo8FIw/index.m3u8
+萧炎美杜莎,https://vip2.bfbfhao.com/20240903/HGIuPmdK/index.m3u8
+美杜莎萧炎,https://vip2.bfbfhao.com/20240903/tseUUi2Y/index.m3u8
+美杜莎裸舞,https://vip2.bfbfhao.com/20240903/4lSXTKzo/index.m3u8
+萧炎雅妃,https://vip3.lbbf9.com/20240914/x82KG3jK/index.m3u8
+云韵群交,https://vip3.lbbf9.com/20240907/wzrvBzLU/index.m3u8
+雅妃3P,https://vip3.lbbf9.com/20240913/D3wKiqWe/index.m3u8
+雅妃乳交,https://vip3.lbbf9.com/20240914/qyI6fpdY/index.m3u8
+萧熏儿,https://vip3.lbbf9.com/20240907/Wdnfkv8Y/index.m3u8
+调教雅妃,https://vip3.lbbf9.com/20240910/qz42cOYt/index.m3u8
+
 凡人修仙传1,https://vip2.bfbfhao.com/20240913/Tavy8FRp/index.m3u8
 凡人修仙传2,https://vip2.bfbfhao.com/20240902/Uh1bSSiL/index.m3u8
 🏛成人AV,#genre#
