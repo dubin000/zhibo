@@ -187,6 +187,7 @@ Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
 美女轮播,http://159.75.85.63:35455/douyu/11531165
 大鱼海棠,http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
 WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a6d90f40aecbf303.ctv
+
 🎬电影频道,#genre#
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -199,6 +200,9 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 林正英,http://159.75.85.63:35455/douyu/2935323
 林正英,https://www.goodiptv.club/douyu/2935323
 周星驰,http://111.67.193.2:35455/huya/11342412
+周星驰,http://120.77.28.4:8648/huya.php?id=11342412
+周星驰,https://www.goodiptv.club/huya/11342412
+黄渤,http://120.77.28.4:8648/huya.php?id=11352876
 黄渤,http://111.67.193.2:35455/huya/11352876
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 恐怖电影,http://159.75.85.63:35455/douyu/96577
@@ -229,20 +233,26 @@ WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a
 港剧轮播,https://www.goodiptv.club/douyu/7356023
 83射雕英雄传,http://159.75.85.63:35455/douyu/12170696
 笑傲江湖,http://120.77.28.4:8648/huya.php?id=23865142
+笑傲江湖,http://111.67.193.2:35455/huya/23865142
 笑傲江湖,https://www.goodiptv.club/huya/23865142
 神雕侠侣,http://120.77.28.4:8648/huya.php?id=23865171
+神雕侠侣,http://111.67.193.2:35455/huya/23865171
 神雕侠侣,https://www.goodiptv.club/huya/23865171
 寻秦记,http://120.77.28.4:8648/huya.php?id=23864973
+寻秦记,http://111.67.193.2:35455/huya/23864973
 寻秦记,https://www.goodiptv.club/huya/23864973
 天龙八部,http://120.77.28.4:8648/huya.php?id=23903123
+天龙八部,http://111.67.193.2:35455/huya/23903123
 天龙八部,https://www.goodiptv.club/huya/23903123
 火龙果说电影,http://159.75.85.63:35455/douyu/9559158
 火龙果说电影,https://www.goodiptv.club/douyu/9559158
-文西与阿漆,https://www.goodiptv.club/douyu/8737695
 文西与阿漆,http://159.75.85.63:35455/douyu/8737695
-听wo姐说,https://www.goodiptv.club/douyu/8830082
+文西与阿漆,https://www.goodiptv.club/douyu/8737695
 听wo姐说,http://159.75.85.63:35455/douyu/8830082
+听wo姐说,https://www.goodiptv.club/douyu/8830082
+阿斗归来了,http://120.77.28.4:8648/huya.php?id=13303478
+阿斗归来了,http://111.67.193.2:35455/huya/13303478
 阿斗归来了,https://www.goodiptv.club/huya/13303478
-阿斗归来了,http://159.75.85.63:35455/douyu/13303478
+陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
+陈翔六点半,http://111.67.193.2:35455/huya/11274154
 陈翔六点半,https://www.goodiptv.club/huya/11274154
-陈翔六点半,http://159.75.85.63:35455/douyu/11274154
