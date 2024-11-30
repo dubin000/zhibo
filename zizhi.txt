@@ -62,6 +62,7 @@ CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live
 凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
 凤凰资讯,http://211.72.65.236:8576/.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+WWE摔跤,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a6d90f40aecbf303.ctv
 北京卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
 湖南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
 东方卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=
@@ -162,16 +163,22 @@ CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-
-
-🎬音乐频道,#genre#
-完美世界云曦,https://vip3.lbbf9.com/20240913/XYGlNCri/index.m3u8
-王牌竞速西里,https://vip3.lbbf9.com/20240913/Fz362Fzs/index.m3u8
-音乐不分国界,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495001476359.mp4
+🎬精彩搞笑剪辑,#genre#
+国产BGM,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496329118356.mp4
+超然神曲,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496169297774.mp4
+流浪地球,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496381611857.mp4
+太空电梯,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496138976908.mp4
+搞笑司机合集,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496141112413.mp4
+大彪哥带路,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496141112413.mp4
 萌七1,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247507984.mp4
 萌七2,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247587516.mp4
-韩国女团,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-九尾狐,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495002368168.mp4
+完美世界云曦,https://vip3.lbbf9.com/20240913/XYGlNCri/index.m3u8
+王牌竞速西里,https://vip3.lbbf9.com/20240913/Fz362Fzs/index.m3u8
+
+🎬音乐频道,#genre#
+Beyond乐队,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496381831736.mp4
+音乐不分国界,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495001476359.mp4
+Everytime We Touch,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496139988333.mp4
 Amarantine,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495246219168.mp4
 One By One,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024277490.mp4
 Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
@@ -180,9 +187,8 @@ Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
 奉献,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/494989640949.mp4
 歌剧2,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025181054.mp4
 悟空传,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495189414059.mp4
+射雕主题曲,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496168213231.mp4
 叹郁孤,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495195802830.mp4
-平凡之路,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025341097.mp4
-那些花儿,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025889033.mp4
 离殇,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247947445.mp4
 爱殇,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495190886312.mp4
 爱的供养,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495025989738.mp4
@@ -197,23 +203,8 @@ Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
 破晓,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495027037037.mp4
 本色,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495190050759.mp4
 秋月剪水,http://159.75.85.63:35455/douyu/9588891
-许巍,http://em.21dtv.com/songs/60026063.mkv
-美女轮播,http://159.75.85.63:35455/douyu/11531165
 大鱼海棠,http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
-WWE,https://stream1.freetv.fun/277a22f73a582f31e2bef1c425c559b31e0ebc90f99efc81a6d90f40aecbf303.ctv
-🎬游戏主播,#genre#
-英雄联盟官方,http://159.75.85.63:35455/douyu/288016
-英雄联盟官方,https://www.goodiptv.club/douyu/288016
-智勋,http://159.75.85.63:35455/douyu/312212
-智勋,http://120.77.28.4:8648/huya.php?id=30256470
-智勋,https://www.goodiptv.club/douyu/312212
-放逐大帝,http://159.75.85.63:35455/douyu/5377721
-放逐大帝,http://120.77.28.4:8648/huya.php?id=30255586
-放逐大帝,https://www.goodiptv.club/douyu/5377721
-TheShy,http://120.77.28.4:8648/huya.php?id=991111
-TheShy,http://111.67.193.2:35455/huya/991111
-TheShy,http://159.75.85.63:35455/douyu/12268497
-http://159.75.85.63:35455/douyu/653999
+我的一个道姑朋友,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496173669459.mp4
 
 🎬电影频道,#genre#
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
