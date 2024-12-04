@@ -162,6 +162,35 @@ CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+喜人小品,#genre#
+蛇我其谁,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496885920611.mp4
+下江南,
+前任特工,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496885196702.mp4
+孤注一掷,
+再见老张,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496859404891.mp4
+越狱的夏天,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497046618696.mp4
+头号玩家,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497092775528.mp4
+飞驰余生,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497092723501.mp4
+X计划,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496850204070.mp4
+站台,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496872713329.mp4
+最后的铸剑师,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496870389427.mp4
+万松书院,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496844508791.mp4
+虎父无犬子,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496870229730.mp4
+最后一站,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496870441036.mp4
+八十一难,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497032074449.mp4
+父亲的葬礼,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496844260857.mp4
+亲情保卫战,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497031878458.mp4
+心动的信号,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496844096657.mp4
+史上第一大劫案,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497077203512.mp4
+少爷和我,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497031442792.mp4
+警察和我,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496843908057.mp4
+请赐教,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496868817887.mp4
+千年就一回,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497076087226.mp4
+渡口,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497030290230.mp4
+大侠别动手,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496868245793.mp4
+少爷和小姐,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497075559782.mp4
+爱赢才会拼,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497075563529.mp4
+质子的愿望,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497028950279.mp4
 
 🎬历年春晚,#genre#
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
