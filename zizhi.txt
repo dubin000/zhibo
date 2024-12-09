@@ -312,6 +312,9 @@ Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
 刘亦菲,https://vip6.ddyunbo.com/20241007/omJOGeNw/index.m3u8
 刘亦菲1,https://bfaskcdn.com/20230220/CBZga0ah/index.m3u8
 刘亦菲2,https://nxxplayurl.com/20230314/5BdXNzFx/index.m3u8
+杨颖,https://vip3.lbbf9.com/20240930/LGrIhrT4/index.m3u8
+ 杨颖1,https://v2024.fhbbff.com/20241208/yGPGUGfQ/index.m3u8
+杨颖2,https://v2024.fhbbff.com/20241206/57ds3nxu/index.m3u8
 杨超越1,https://player.cl9987.com:188/20240317/E2GJFqJI/index.m3u8
 杨超越2,https://play.gayzyv.com/play/xbo2mM3a/index.m3u8
 杨超越3,https://play.gayzyv.com/play/Qe1w76Rb/index.m3u8
