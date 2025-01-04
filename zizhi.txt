@@ -182,15 +182,14 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 港·澳·台,#genre#
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
-纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$订阅源
+明珠剧集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$订阅源
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$订阅源
-三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8$订阅源
-
+翡翠剧集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$订阅源
 
 🎬精彩搞笑剪辑,#genre#
 国产BGM,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496329118356.mp4
