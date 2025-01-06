@@ -1,4 +1,7 @@
+
 央视频道,#genre#
+CCTV1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$订阅源|IPv6
+CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$订阅源|IPv6
 CCTV1,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$订阅源|IPv6
 CCTV2,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3$订阅源|IPv6
 CCTV2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$订阅源|IPv6
@@ -182,7 +185,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 港·澳·台,#genre#
-凤凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$订阅源
@@ -190,7 +193,64 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 明珠剧集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$订阅源
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$订阅源
 翡翠剧集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$订阅源
-
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 🎬精彩搞笑剪辑,#genre#
 国产BGM,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496329118356.mp4
 超然神曲,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496169297774.mp4
@@ -240,6 +300,7 @@ Only Time,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495024441750.mp4
 我的一个道姑朋友,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496173669459.mp4
 
 🎬电影频道,#genre#
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源|IPv6
 CHC家庭影院,http://117.190.144.101:1111/tsfile/live/1018_1.m3u8$订阅源
 动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源|IPv6
 动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源|IPv6
@@ -250,11 +311,11 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源
 淘电影,http://123.113.249.203:8888/udp/239.3.1.250:8001$订阅源
 NewTV惊悚悬疑,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源|IPv6
-NewTV惊悚悬疑,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000113$订阅源|IPv6
+NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源
-黑莓电影,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000095/index.m3u8?$订阅源|IPv6
-黑莓电影,http://[2409:8087:74d1:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$订阅源|IPv6
 黑莓电影,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源|IPv6
+黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源|IPv6
+黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源|IPv6
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8$订阅源
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源
 经典电影,http://183.66.13.82:60033/tsfile/live/0111_2.m3u8$订阅源
@@ -265,8 +326,7 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 变形金刚轮播,http://jiaojirentv.top/2020/yy.php?id=1382736803
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
-
-
+天龙八部,http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
 🏛明星换脸,#genre#
 佟丽娅,https://thm3u8.com/20240916/iD6cxFfO/index.m3u8
 佟丽娅1,https://play.gayzyv.com/play/kazpNQ5d/index.m3u8
@@ -275,9 +335,6 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 刘亦菲,https://vip6.ddyunbo.com/20241007/omJOGeNw/index.m3u8
 刘亦菲1,https://bfaskcdn.com/20230220/CBZga0ah/index.m3u8
 刘亦菲2,https://nxxplayurl.com/20230314/5BdXNzFx/index.m3u8
-杨颖,https://vip3.lbbf9.com/20240930/LGrIhrT4/index.m3u8
- 杨颖1,https://v2024.fhbbff.com/20241208/yGPGUGfQ/index.m3u8
-杨颖2,https://v2024.fhbbff.com/20241206/57ds3nxu/index.m3u8
 杨超越1,https://player.cl9987.com:188/20240317/E2GJFqJI/index.m3u8
 杨超越2,https://play.gayzyv.com/play/xbo2mM3a/index.m3u8
 杨超越3,https://play.gayzyv.com/play/Qe1w76Rb/index.m3u8
@@ -357,7 +414,7 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 对魔忍3,https://vip3.bfbfhao.com/20240718/liHTtDFZ/index.m3u8
 机械纪元,https://vip2.bfbfhao.com/20240824/2vCtNOyp/index.m3u8
 深度空间,https://bf3.hntvoss.com/202408/19/484F34RBBh1/video/index.m3u8
-母狗1,ttps://vip3.lbbf9.com/20240831/8t4yFvjP/index.m3u8
+母狗1,https://vip3.lbbf9.com/20240831/8t4yFvjP/index.m3u8
 母狗2,https://vip3.lbbf9.com/20240901/YlgJzcq1/index.m3u8
 龙蛇演义唐紫尘,https://vip3.lbbf9.com/20240913/UUZ540yK/index.m3u8
 完美世界魔女,https://vip3.lbbf9.com/20240913/lK7rozOc/index.m3u8
@@ -387,7 +444,7 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 斗罗比比东,https://vip3.lbbf9.com/20240910/wGHErHWS/index.m3u8
 永劫无间1,https://vip3.lbbf9.com/20240905/GCV5a1os/index.m3u8
 宁红夜白素贞,https://vip2.bfbfhao.com/20240903/Z0CNCYOV/index.m3u8
-不良人尸祖1,https://vip3.lbbf9.com/20240909/GkUfoXzS/index.m3u8
+不良人尸祖1,https://vip3.lbbf9.com/20240909/GkUfoXzS/index.m3u8,
 不良人尸祖2,https://vip3.lbbf9.com/20240909/Sj8z3VMU/index.m3u8
 不良人尸祖3,https://vip2.bfbfhao.com/20240914/82OiHXSP/index.m3u8
 不良人尸祖3,https://vip3.lbbf9.com/20240914/82OiHXSP/index.m3u8
@@ -426,27 +483,26 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 6,https://vip2.viii155.com/20241009/s3NVdW5m/index.m3u8
 7,https://thm3u8.com/20240916/VCt1Pr1y/index.m3u8
 8,https://vip3.slslbf.com/20231204/cF6k7kHv/index.m3u8
-9,https://player.cl9987.com:188/20230127/63G4wXOp/index.m3u8
-10,https://03hao.top/20240830/GWoov8IX/index.m3u8
-11,https://player.cl9987.com:188/20230130/aMjgGhyN/index.m3u8
-12,https://thm3u8.com/20241107/uIUygNMe/index.m3u8
-13,https://vip3.bfbfhao.com/20240801/5K4k2pvN/index.m3u8
-14,https://v2024.fhbbff.com/20241115/20kTXG65/index.m3u8
-15,https://vip2.bfbfhao.com/20241103/XaXMGIEg/index.m3u8
-16,https://player.cl9987.com:188/20230202/t9WOVrDH/index.m3u8
-17,https://player.cl9987.com:188/20230202/5CeH1N1L/index.m3u8
-18,https://vip2.bfbfhao.com/20220830/8BPLycRW/index.m3u8
-19,https://vip3.lbbf9.com/20240803/gKnYX7bS/index.m3u8
-20,https://vip3.slslbf.com/20231125/4er5MCaE/index.m3u8
-21,https://play.gayzyv.com/play/nelY0NJa/index.m3u8
-22,https://vip4.slslvip3.com/20241106/qweBH4Km/index.m3u8
-23,https://vip2.bfbfhao.com/20241004/5luaeCZh/index.m3u8
-24,https://vip2.bfbfhao.com/20241107/jjHTC7Vb/index.m3u8
-24,https://vip2.bfbfhao.com/20241024/3zRkpxhe/index.m3u8
-25,https://vip2.bfbfhao.com/20240804/BkBvyiu8/index.m3u8
-26,https://video37.balecao.com/video/20221027/aa607d005318ea701efff3532030f984/index.m3u8
-27,https://vip2.bfbfhao.com/20240930/66iJpF8y/index.m3u8
-28,https://PgLt5K:RuKLX0@openapi.alipan.com:443/dav/mmexport1734604724801.mp4
+https://player.cl9987.com:188/20230127/63G4wXOp/index.m3u8
+https://03hao.top/20240830/GWoov8IX/index.m3u8
+https://player.cl9987.com:188/20230130/aMjgGhyN/index.m3u8
+https://thm3u8.com/20241107/uIUygNMe/index.m3u8
+https://vip3.bfbfhao.com/20240801/5K4k2pvN/index.m3u8
+https://v2024.fhbbff.com/20241115/20kTXG65/index.m3u8
+https://vip2.bfbfhao.com/20241103/XaXMGIEg/index.m3u8
+https://player.cl9987.com:188/20230202/t9WOVrDH/index.m3u8
+https://player.cl9987.com:188/20230202/5CeH1N1L/index.m3u8
+https://vip2.bfbfhao.com/20220830/8BPLycRW/index.m3u8
+https://vip3.lbbf9.com/20240803/gKnYX7bS/index.m3u8
+https://vip3.slslbf.com/20231125/4er5MCaE/index.m3u8
+https://play.gayzyv.com/play/nelY0NJa/index.m3u8
+https://vip4.slslvip3.com/20241106/qweBH4Km/index.m3u8
+https://vip2.bfbfhao.com/20241004/5luaeCZh/index.m3u8
+https://vip2.bfbfhao.com/20241107/jjHTC7Vb/index.m3u8
+https://vip2.bfbfhao.com/20241024/3zRkpxhe/index.m3u8
+https://vip2.bfbfhao.com/20240804/BkBvyiu8/index.m3u8
+https://video37.balecao.com/video/20221027/aa607d005318ea701efff3532030f984/index.m3u8
+https://vip2.bfbfhao.com/20240930/66iJpF8y/index.m3u8
 🏛欧美成人版,#genre#
 萝莉4P,https://vip3.lbbf9.com/20241010/KJndo0qs/index.m3u8
 两女一男,https://3bmmikh.life/new/hls/6e6cf61519a244debbc0de3eb94833c2/index.m3u8
@@ -461,8 +517,6 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 8,https://stream1.freetv.fun/intermedia-tv-1.m3u8
 9,https://stream1.freetv.fun/2ca5afdce172ec75932ab8241277e97774e7458bf3bbc0f2a190987f8a2529a0.m3u8
 10,https://stream1.freetv.fun/621055e9efce4f4657ca5eb1b72271493125655c5da342d4b7fbe9289c0cedae.m3u8
-11,https://Rmtjr3:8x02NC@openapi.alipan.com:443/dav/%E6%AC%A7%E7%BE%8E/JulesJordan%20-%20Alex%20Grey%20s%20Teen%20Ass%20Is%20Open%20For%20Business%20XXX%20NEW%2007.August.2016.mp4
-12,https://Rmtjr3:8x02NC@openapi.alipan.com:443/dav/%E6%AC%A7%E7%BE%8E/Superstar_edit.mp4
 XXX,#genre#
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
@@ -490,7 +544,7 @@ Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
  Teen Girls,http://live.mycamtv.com/teen.m3u8
- MILF,http://live.mycamtv.com/milf.m3u8
+ lMILF,http://live.mycamtv.com/milf.m3u8
  Young Girls,http://live.mycamtv.com/young.m3u8
  Mature,http://live.mycamtv.com/bigtits.m3u8
  Arab Girls,http://live.mycamtv.com/arab.m3u8
@@ -500,10 +554,11 @@ Asian,http://cdn.adultiptv.net/asian.m3u8
  Latina Girls,http://live.mycamtv.com/latina.m3u8
  White Girls,http://live.mycamtv.com/white.m3u8
  Blonde Girls,http://live.mycamtv.com/blonde.m3u8
- Anal,http://live.mycamtv.com/anal.m3u8
- Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
+ Anal2,http://live.mycamtv.com/anal.m3u8
+ Big Asss Girls,http://live.mycamtv.com/bigass.m3u8
  Girls Squirt,http://live.mycamtv.com/squirt.m3u8
- Big Tits Girls,http://live.mycamtv.com/bigtits.m3u8
+ Big Tits2 Girls,http://live.mycamtv.com/bigtits.m3u8
  Skinny Girls,http://live.mycamtv.com/skinny.m3u8
  Medium Girls,http://live.mycamtv.com/medium.m3u8
  Blowjob,http://live.mycamtv.com/blowjob.m3u8
+
