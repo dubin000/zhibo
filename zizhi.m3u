@@ -831,8 +831,6 @@ http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠剧集台" tvg-logo="https://epg.112114.xyz/logo/翡翠剧集台.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠剧集台
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="港·澳·台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="港·澳·台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港·澳·台" tvg-name="TVBS-新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS-新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS-新聞台
