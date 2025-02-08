@@ -74,6 +74,7 @@ CCTV17,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/
 山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+
 港·澳·台,#genre#
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -119,7 +120,8 @@ TVBJ2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8🎵音乐频道,#genre#
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+🎵音乐频道,#genre#
 流浪地球,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496381611857.mp4
 太空电梯,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496138976908.mp4
 萌七1,http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495247507984.mp4
